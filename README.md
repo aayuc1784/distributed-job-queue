@@ -84,7 +84,7 @@ PostgreSQL acts as the source of truth for job metadata and lifecycle state, whi
 
 A Transactional Outbox pattern is used to prevent inconsistencies between the database and RabbitMQ.
 
-![Architecture](https://github.com/aayuc1784/distributed-job-queue/images/architecture.png)
+![Architecture](https://github.com/aayuc1784/distributed-job-queue/blob/main/images/architecture.png)
 
 
 <!-- ARCHITECTURE -->
